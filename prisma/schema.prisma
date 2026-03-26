@@ -1,0 +1,42 @@
+// Neon (Postgres) schema for My Holiday
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model SearchRequest {
+  id           String   @id @default(cuid())
+  origin       String
+  destination  String?
+  startDate    DateTime
+  endDate      DateTime
+  budget       Int
+  adults       Int
+  includeJson  Json
+  preferences  Json?
+  createdAt    DateTime @default(now())
+
+  results SearchResult[]
+}
+
+model SearchResult {
+  id            String   @id @default(cuid())
+  searchId      String
+  destination   String
+  total         Int
+  currency      String   @default("EUR")
+  rating        Float
+  weather       String
+  detailsJson   Json
+  breakdownJson Json
+  source        String
+  createdAt     DateTime @default(now())
+
+  search SearchRequest @relation(fields: [searchId], references: [id], onDelete: Cascade)
+
+  @@index([searchId])
+}
