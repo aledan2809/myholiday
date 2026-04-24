@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "postinstall": "bash scripts/copy-ai-router.sh",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
@@ -11,6 +12,7 @@
   "dependencies": {
     "@prisma/adapter-pg": "^7.3.0",
     "@prisma/client": "^7.3.0",
+    "ai-router": "file:../AIRouter",
     "next": "^16.2.1",
     "pg": "^8.18.0",
     "react": "19.2.3",
@@ -23,10 +25,9 @@
     "@types/pg": "^8.16.0",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^9",
-    "eslint-config-next": "16.1.6",
-    "prisma": "^6.19.2",
+    "eslint-config-next": "^16.2.1",
+    "prisma": "^7.5.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

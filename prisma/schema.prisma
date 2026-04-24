@@ -21,6 +21,8 @@ model SearchRequest {
   createdAt    DateTime @default(now())
 
   results SearchResult[]
+
+  @@index([createdAt])
 }
 
 model SearchResult {

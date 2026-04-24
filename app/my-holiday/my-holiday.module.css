@@ -253,6 +253,63 @@
   font-weight: 600;
 }
 
+.weatherKpi {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.weatherIcon {
+  flex-shrink: 0;
+  margin: -6px 0;
+}
+
+.forecastRow {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  padding: 8px 12px;
+  background: rgba(128, 183, 255, 0.08);
+  border-radius: 14px;
+  border: 1px solid rgba(128, 183, 255, 0.15);
+}
+
+.forecastLabel {
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--holiday-ink-soft);
+  white-space: nowrap;
+}
+
+.forecastDay {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 10px;
+  padding: 4px 10px;
+}
+
+.forecastDayName {
+  font-weight: 700;
+  font-size: 0.8rem;
+  color: var(--holiday-lagoon-dark);
+  min-width: 28px;
+}
+
+.forecastIcon {
+  flex-shrink: 0;
+  margin: -4px 0;
+}
+
+.forecastTemps {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--holiday-ink);
+  white-space: nowrap;
+}
+
 .breakdown {
   display: grid;
   gap: 6px;
@@ -282,6 +339,30 @@
   font-weight: 600;
 }
 
+.hotelImage {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin: 8px 0;
+}
+
+.facilities {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.facilityTag {
+  background: rgba(43, 122, 120, 0.1);
+  color: var(--holiday-lagoon-dark);
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
 .fadeIn {
   animation: fadeUp 0.6s ease both;
 }
@@ -295,6 +376,278 @@
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+.filtersBar {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 20px;
+  padding: 20px 24px;
+  border: 1px solid rgba(255, 255, 255, 0.9);
+  box-shadow: 0 8px 20px rgba(30, 26, 21, 0.06);
+  display: grid;
+  gap: 14px;
+}
+
+.filtersRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  align-items: flex-end;
+}
+
+.filterField {
+  display: grid;
+  gap: 4px;
+  min-width: 160px;
+}
+
+.filterLabel {
+  font-weight: 600;
+  font-size: 0.8rem;
+  color: var(--holiday-ink-soft);
+}
+
+.filterToggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #fff;
+  border-radius: 999px;
+  padding: 10px 14px;
+  border: 1px solid rgba(30, 26, 21, 0.18);
+  font-weight: 600;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.filterToggle input {
+  accent-color: var(--holiday-violet);
+}
+
+.filterStats {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.85rem;
+  color: var(--holiday-ink-soft);
+  font-weight: 600;
+}
+
+.sourceTag {
+  background: rgba(43, 122, 120, 0.12);
+  color: var(--holiday-lagoon-dark);
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+}
+
+.matchReasons {
+  display: inline-flex;
+  gap: 4px;
+  flex-wrap: wrap;
+  margin-left: 6px;
+}
+
+.matchTag {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: rgba(59, 130, 246, 0.12);
+  color: #2563eb;
+  font-size: 0.7rem;
+  font-weight: 500;
+}
+
+/* Hotel browse section */
+.hotelBrowseSection {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 24px;
+  padding: 28px;
+  border: 1px solid rgba(255, 255, 255, 0.9);
+  display: grid;
+  gap: 18px;
+  box-shadow: 0 18px 40px rgba(30, 26, 21, 0.08);
+}
+
+.browseSectionTitle {
+  font-family: var(--font-news), 'Newsreader', serif;
+  font-size: 1.6rem;
+  margin: 0;
+}
+
+.browseSectionSubtitle {
+  margin: 0;
+  color: var(--holiday-ink-soft);
+  font-size: 0.95rem;
+}
+
+.browseControls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  align-items: flex-end;
+}
+
+.browseFacilitiesRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.browseHotelGrid {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+
+.browseHotelCard {
+  background: #fff;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(30, 26, 21, 0.07);
+  border: 1px solid rgba(30, 26, 21, 0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.browseHotelCard:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 28px rgba(30, 26, 21, 0.12);
+}
+
+.browseHotelImg {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.browseHotelBody {
+  padding: 16px;
+  display: grid;
+  gap: 8px;
+}
+
+.browseHotelHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.browseHotelName {
+  font-size: 1.05rem;
+}
+
+.browseHotelPrice {
+  font-weight: 700;
+  color: var(--holiday-lagoon-dark);
+  white-space: nowrap;
+  font-size: 0.95rem;
+}
+
+.browseHotelMeta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-size: 0.85rem;
+  color: var(--holiday-ink-soft);
+  font-weight: 600;
+}
+
+.browseHotelDescription {
+  font-size: 0.82rem;
+  color: var(--holiday-ink-soft);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.browseHotelLocation {
+  font-size: 0.85rem;
+  color: var(--holiday-ink-soft);
+}
+
+.browseHotelFooter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.roomsLeft {
+  color: var(--holiday-coral);
+  font-weight: 700;
+  font-size: 0.8rem;
+}
+
+.hotelLink {
+  color: var(--holiday-lagoon);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.hotelLink:hover {
+  text-decoration: underline;
+  color: var(--holiday-lagoon-dark);
+}
+
+/* Alternative hotels in result card */
+.altHotelsBtn {
+  margin-top: 10px;
+  background: rgba(123, 92, 255, 0.1);
+  color: var(--holiday-violet);
+  border: 1px solid rgba(123, 92, 255, 0.2);
+  padding: 8px 14px;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.altHotelsBtn:hover {
+  background: rgba(123, 92, 255, 0.18);
+}
+
+.altHotelsGrid {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  margin-top: 10px;
+}
+
+.altHotelCard {
+  background: rgba(43, 122, 120, 0.04);
+  border: 1px solid rgba(43, 122, 120, 0.12);
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.altHotelImg {
+  width: 100%;
+  height: 90px;
+  object-fit: cover;
+}
+
+.altHotelInfo {
+  padding: 10px;
+  display: grid;
+  gap: 4px;
+  font-size: 0.8rem;
+}
+
+.altHotelInfo strong {
+  font-size: 0.88rem;
+}
+
+.altLoading {
+  padding: 12px;
+  color: var(--holiday-ink-soft);
+  font-weight: 600;
+  font-size: 0.85rem;
 }
 
 @media (max-width: 720px) {
@@ -316,5 +669,520 @@
   .primaryBtn,
   .secondaryBtn {
     width: 100%;
+  }
+
+  .browseControls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .browseHotelGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .altHotelsGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .modalContent {
+    width: 95vw;
+    max-height: 90vh;
+    margin: 5vh auto;
+  }
+
+  .modalGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .similarGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Hotel detail modal */
+.browseHotelClickable {
+  cursor: pointer;
+}
+
+.modalOverlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(30, 26, 21, 0.55);
+  backdrop-filter: blur(4px);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: fadeIn 0.2s ease;
+}
+
+.modalContent {
+  background: var(--holiday-cream);
+  border-radius: 24px;
+  width: 90vw;
+  max-width: 720px;
+  max-height: 85vh;
+  overflow-y: auto;
+  position: relative;
+  box-shadow: 0 24px 60px rgba(30, 26, 21, 0.25);
+}
+
+.modalClose {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.85);
+  border: none;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  font-size: 18px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  transition: background 0.15s;
+}
+
+.modalClose:hover {
+  background: #fff;
+}
+
+.modalLoading {
+  padding: 48px;
+  text-align: center;
+  color: var(--holiday-ink-soft);
+  font-size: 15px;
+}
+
+.modalHero {
+  position: relative;
+  height: 240px;
+  overflow: hidden;
+}
+
+.modalHotelImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.modalHotelOverlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20px 24px;
+  background: linear-gradient(to top, rgba(30, 26, 21, 0.7), transparent);
+  color: #fff;
+}
+
+.modalHotelName {
+  font-family: var(--font-news), 'Newsreader', serif;
+  font-size: clamp(20px, 3vw, 26px);
+  font-weight: 600;
+  margin: 0 0 4px;
+}
+
+.modalHotelStars {
+  font-size: 16px;
+  color: var(--holiday-sun);
+}
+
+.modalBody {
+  padding: 24px;
+  display: grid;
+  gap: 24px;
+}
+
+.modalGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+
+.modalSection {
+  display: grid;
+  gap: 12px;
+  align-content: start;
+}
+
+.modalSectionTitle {
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--holiday-ink-soft);
+  margin: 0;
+}
+
+.modalInfo {
+  display: grid;
+  gap: 8px;
+  font-size: 14px;
+  color: var(--holiday-ink);
+}
+
+.seasonTag {
+  font-size: 12px;
+  color: var(--holiday-coral);
+}
+
+.modalSimilar {
+  display: grid;
+  gap: 12px;
+  border-top: 1px solid var(--holiday-sand);
+  padding-top: 20px;
+}
+
+.similarGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 12px;
+}
+
+.similarCard {
+  background: #fff;
+  border-radius: 14px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: 0 4px 12px rgba(30, 26, 21, 0.06);
+}
+
+.similarCard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(30, 26, 21, 0.1);
+}
+
+.similarImg {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+}
+
+.similarInfo {
+  padding: 10px;
+  display: grid;
+  gap: 4px;
+  font-size: 12px;
+  color: var(--holiday-ink-soft);
+}
+
+.similarInfo strong {
+  font-size: 13px;
+  color: var(--holiday-ink);
+}
+
+/* Explore section — dynamic destination suggestions */
+.exploreSection {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 24px;
+  padding: 28px;
+  border: 1px solid rgba(255, 255, 255, 0.9);
+  display: grid;
+  gap: 20px;
+  box-shadow: 0 18px 40px rgba(30, 26, 21, 0.08);
+}
+
+.exploreHeader {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.exploreTitle {
+  font-family: var(--font-news), 'Newsreader', serif;
+  font-size: 1.6rem;
+  margin: 0;
+}
+
+.exploreSubtitle {
+  margin: 0;
+  color: var(--holiday-ink-soft);
+  font-size: 0.95rem;
+}
+
+.exploreFilters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.exploreFilterBtn {
+  background: #fff;
+  border: 1px solid rgba(30, 26, 21, 0.18);
+  padding: 8px 14px;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.exploreFilterBtn:hover {
+  border-color: var(--holiday-violet);
+  color: var(--holiday-violet);
+}
+
+.exploreFilterBtnActive {
+  background: linear-gradient(135deg, var(--holiday-lagoon), var(--holiday-violet));
+  color: #fff;
+  border-color: transparent;
+}
+
+.exploreGrid {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+
+.exploreCard {
+  background: #fff;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(30, 26, 21, 0.07);
+  border: 1px solid rgba(30, 26, 21, 0.06);
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
+
+.exploreCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 32px rgba(30, 26, 21, 0.14);
+}
+
+.exploreCardTop {
+  position: relative;
+  padding: 16px 16px 12px;
+  background: linear-gradient(135deg, rgba(43, 122, 120, 0.06), rgba(123, 92, 255, 0.06));
+}
+
+.exploreCardCity {
+  font-family: var(--font-news), 'Newsreader', serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.exploreCardCountry {
+  font-size: 0.82rem;
+  color: var(--holiday-ink-soft);
+  margin: 2px 0 0;
+}
+
+.exploreCardWeather {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.exploreCardTemp {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--holiday-lagoon-dark);
+  line-height: 1;
+}
+
+.exploreCardWeatherDesc {
+  font-size: 0.82rem;
+  color: var(--holiday-ink-soft);
+  font-weight: 500;
+}
+
+.exploreCardWeatherIcon {
+  flex-shrink: 0;
+  margin: -8px 0;
+}
+
+.exploreCardBody {
+  padding: 0 16px 16px;
+  display: grid;
+  gap: 10px;
+  align-content: start;
+}
+
+.exploreCardActivities {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.exploreActivityTag {
+  background: rgba(43, 122, 120, 0.1);
+  color: var(--holiday-lagoon-dark);
+  padding: 3px 8px;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+
+.exploreCardPrice {
+  font-size: 0.85rem;
+  color: var(--holiday-ink-soft);
+  font-weight: 600;
+}
+
+.exploreCardPriceValue {
+  color: var(--holiday-lagoon-dark);
+  font-weight: 700;
+}
+
+.exploreCardMatchReasons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.exploreCardCta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: linear-gradient(135deg, var(--holiday-lagoon), var(--holiday-violet));
+  color: #fff;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 0.82rem;
+  cursor: pointer;
+  transition: transform 0.15s ease;
+  justify-self: start;
+}
+
+.exploreCardCta:hover {
+  transform: translateY(-1px);
+}
+
+.exploreLoading {
+  text-align: center;
+  padding: 24px;
+  color: var(--holiday-ink-soft);
+  font-weight: 600;
+}
+
+.exploreSeason {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: rgba(247, 200, 115, 0.2);
+  color: #8a5d12;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.exploreHeaderRight {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.exploreLiveBadge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 5px 10px;
+  border-radius: 999px;
+  background: rgba(34, 197, 94, 0.15);
+  color: #15803d;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.exploreCardTopHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.exploreCardLiveTag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(34, 197, 94, 0.15);
+  color: #15803d;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  flex-shrink: 0;
+}
+
+.exploreCardForecast {
+  display: flex;
+  gap: 8px;
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.exploreCardForecastDay {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1px;
+  font-size: 0.7rem;
+  color: var(--holiday-ink-soft, #6b6257);
+}
+
+.forecastDayName {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.6rem;
+  letter-spacing: 0.05em;
+}
+
+.forecastTemps {
+  font-size: 0.68rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.exploreCardAirline,
+.exploreCardDuration,
+.exploreCardStops {
+  font-size: 0.78rem;
+  color: var(--holiday-ink-soft, #6b6257);
+}
+
+.exploreCardHotelCount {
+  font-size: 0.78rem;
+  color: var(--holiday-lagoon, #2b7a78);
+  font-weight: 500;
+  margin-top: 2px;
+}
+
+.exploreCardTopHotel {
+  color: var(--holiday-sand, #9a8c75);
+  font-weight: 400;
+}
+
+@media (max-width: 720px) {
+  .exploreGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .exploreFilters {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .exploreHeaderRight {
+    flex-direction: column;
+    align-items: flex-start;
   }
 }

@@ -1,6 +1,7 @@
 'use client'
 
 export default function GlobalError({
+  error,
   reset,
 }: {
   error: Error & { digest?: string }
@@ -8,12 +9,16 @@ export default function GlobalError({
 }) {
   return (
     <html lang="ro">
-      <head>
-        <title>Error</title>
-      </head>
       <body style={{ fontFamily: 'sans-serif', textAlign: 'center', paddingTop: '4rem' }}>
         <h2>Something went wrong</h2>
-        <button onClick={() => reset()}>Try again</button>
+        {error.digest && (
+          <p style={{ fontSize: '0.8rem', color: '#999', marginTop: '0.5rem' }}>
+            Error ID: {error.digest}
+          </p>
+        )}
+        <button onClick={() => reset()} style={{ marginTop: '1.5rem', padding: '0.5rem 1.5rem', cursor: 'pointer' }}>
+          Try again
+        </button>
       </body>
     </html>
   )

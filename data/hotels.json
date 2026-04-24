@@ -1,0 +1,6984 @@
+{
+  "hotels": [
+    {
+      "id": "h-lis-001",
+      "name": "Sofitel Lisabona",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 309,
+      "rating": 4.5,
+      "reviewsCount": 120,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Parking",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
+      "location": {
+        "lat": 38.726,
+        "lng": -9.1514,
+        "city": "Lisabona",
+        "country": "Portugalia"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-lis-002",
+      "name": "Intercontinental Lisabona",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 242,
+      "rating": 4.7,
+      "reviewsCount": 751,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+      "location": {
+        "lat": 38.7219,
+        "lng": -9.1446,
+        "city": "Lisabona",
+        "country": "Portugalia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-lis-003",
+      "name": "Residence Inn Lisabona Premium",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 93,
+      "rating": 4.2,
+      "reviewsCount": 132,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Laundry"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
+      "location": {
+        "lat": 38.7105,
+        "lng": -9.1371,
+        "city": "Lisabona",
+        "country": "Portugalia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-lis-004",
+      "name": "Hotel Select Lisabona Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 160,
+      "rating": 4.5,
+      "reviewsCount": 214,
+      "distanceFromCenter": 0.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+      "location": {
+        "lat": 38.7098,
+        "lng": -9.1501,
+        "city": "Lisabona",
+        "country": "Portugalia"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-lis-005",
+      "name": "Hotel Riviera Lisabona",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 75,
+      "rating": 3.8,
+      "reviewsCount": 371,
+      "distanceFromCenter": 0.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Business Center"
+      ],
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
+      "location": {
+        "lat": 38.7245,
+        "lng": -9.1381,
+        "city": "Lisabona",
+        "country": "Portugalia"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-lis-006",
+      "name": "Grand Hotel Lisabona",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 54,
+      "rating": 3.9,
+      "reviewsCount": 298,
+      "distanceFromCenter": 2.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400",
+      "location": {
+        "lat": 38.7261,
+        "lng": -9.1525,
+        "city": "Lisabona",
+        "country": "Portugalia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-lis-007",
+      "name": "City Hostel Lisabona",
+      "description": "Cazare economica cu acces la transport public si atractii turistice.",
+      "pricePerNight": 57,
+      "rating": 3.6,
+      "reviewsCount": 395,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400",
+      "location": {
+        "lat": 38.7185,
+        "lng": -9.1418,
+        "city": "Lisabona",
+        "country": "Portugalia"
+      },
+      "stars": 2,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-lis-008",
+      "name": "Hotel Park Lisabona",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 84,
+      "rating": 4.4,
+      "reviewsCount": 53,
+      "distanceFromCenter": 0.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=400",
+      "location": {
+        "lat": 38.7145,
+        "lng": -9.1416,
+        "city": "Lisabona",
+        "country": "Portugalia"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-lis-009",
+      "name": "Intercontinental Lisabona Plus",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 241,
+      "rating": 4.7,
+      "reviewsCount": 118,
+      "distanceFromCenter": 0.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=400",
+      "location": {
+        "lat": 38.7213,
+        "lng": -9.1519,
+        "city": "Lisabona",
+        "country": "Portugalia"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-03",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-lis-010",
+      "name": "The Peninsula Lisabona",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 325,
+      "rating": 4.7,
+      "reviewsCount": 364,
+      "distanceFromCenter": 1.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
+      "location": {
+        "lat": 38.7162,
+        "lng": -9.1466,
+        "city": "Lisabona",
+        "country": "Portugalia"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-bcn-001",
+      "name": "The Peninsula Barcelona",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 170,
+      "rating": 4.4,
+      "reviewsCount": 703,
+      "distanceFromCenter": 0.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Business Center"
+      ],
+      "image": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=400",
+      "location": {
+        "lat": 41.3914,
+        "lng": 2.1766,
+        "city": "Barcelona",
+        "country": "Spania"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-bcn-002",
+      "name": "Ritz Barcelona",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 303,
+      "rating": 4.6,
+      "reviewsCount": 704,
+      "distanceFromCenter": 0.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Parking"
+      ],
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=400",
+      "location": {
+        "lat": 41.3871,
+        "lng": 2.1624,
+        "city": "Barcelona",
+        "country": "Spania"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-bcn-003",
+      "name": "Boutique Hotel Barcelona Premium",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 124,
+      "rating": 4.1,
+      "reviewsCount": 296,
+      "distanceFromCenter": 1.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Concierge",
+        "Spa"
+      ],
+      "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=400",
+      "location": {
+        "lat": 41.3856,
+        "lng": 2.1602,
+        "city": "Barcelona",
+        "country": "Spania"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-bcn-004",
+      "name": "Hotel Europa Barcelona Premium",
+      "description": "Hotel modern cu facilitati excelente, ideal pentru vacante si calatorii de afaceri.",
+      "pricePerNight": 90,
+      "rating": 4.5,
+      "reviewsCount": 322,
+      "distanceFromCenter": 0.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+      "location": {
+        "lat": 41.3787,
+        "lng": 2.1649,
+        "city": "Barcelona",
+        "country": "Spania"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-bcn-005",
+      "name": "Hotel Metropolitan Barcelona",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 95,
+      "rating": 3.7,
+      "reviewsCount": 56,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "location": {
+        "lat": 41.3783,
+        "lng": 2.1728,
+        "city": "Barcelona",
+        "country": "Spania"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-bcn-006",
+      "name": "Hotel Panorama Barcelona",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 74,
+      "rating": 4,
+      "reviewsCount": 222,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Room Service",
+        "Parking"
+      ],
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=400",
+      "location": {
+        "lat": 41.3815,
+        "lng": 2.1619,
+        "city": "Barcelona",
+        "country": "Spania"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-bcn-007",
+      "name": "Youth Hostel Barcelona",
+      "description": "Cazare economica cu acces la transport public si atractii turistice.",
+      "pricePerNight": 29,
+      "rating": 3.3,
+      "reviewsCount": 188,
+      "distanceFromCenter": 0.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning"
+      ],
+      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400",
+      "location": {
+        "lat": 41.3859,
+        "lng": 2.1733,
+        "city": "Barcelona",
+        "country": "Spania"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-bcn-008",
+      "name": "Hotel Vista Barcelona",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 151,
+      "rating": 4.4,
+      "reviewsCount": 188,
+      "distanceFromCenter": 1.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+      "location": {
+        "lat": 41.3908,
+        "lng": 2.1629,
+        "city": "Barcelona",
+        "country": "Spania"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-bcn-009",
+      "name": "Hotel Park Barcelona",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 115,
+      "rating": 4.5,
+      "reviewsCount": 288,
+      "distanceFromCenter": 0.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
+      "location": {
+        "lat": 41.3785,
+        "lng": 2.1776,
+        "city": "Barcelona",
+        "country": "Spania"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-bcn-010",
+      "name": "Ritz Barcelona Select",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 305,
+      "rating": 4.7,
+      "reviewsCount": 68,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+      "location": {
+        "lat": 41.3789,
+        "lng": 2.1765,
+        "city": "Barcelona",
+        "country": "Spania"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-rom-001",
+      "name": "The Peninsula Roma",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 231,
+      "rating": 4.7,
+      "reviewsCount": 349,
+      "distanceFromCenter": 0.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Beach Access",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
+      "location": {
+        "lat": 41.9113,
+        "lng": 12.4969,
+        "city": "Roma",
+        "country": "Italia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-rom-002",
+      "name": "Sofitel Roma",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 164,
+      "rating": 4.6,
+      "reviewsCount": 157,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+      "location": {
+        "lat": 41.8993,
+        "lng": 12.4944,
+        "city": "Roma",
+        "country": "Italia"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "14:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-rom-003",
+      "name": "Hotel Central Roma Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 154,
+      "rating": 4.4,
+      "reviewsCount": 412,
+      "distanceFromCenter": 0.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Kitchen",
+        "Restaurant"
+      ],
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
+      "location": {
+        "lat": 41.9085,
+        "lng": 12.4947,
+        "city": "Roma",
+        "country": "Italia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-rom-004",
+      "name": "Hotel Corso Roma Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 121,
+      "rating": 4.1,
+      "reviewsCount": 692,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400",
+      "location": {
+        "lat": 41.8972,
+        "lng": 12.4965,
+        "city": "Roma",
+        "country": "Italia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-rom-005",
+      "name": "Hotel Astoria Roma",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 50,
+      "rating": 3.6,
+      "reviewsCount": 252,
+      "distanceFromCenter": 0.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Concierge"
+      ],
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400",
+      "location": {
+        "lat": 41.8979,
+        "lng": 12.4883,
+        "city": "Roma",
+        "country": "Italia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-29",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-rom-006",
+      "name": "Hotel Riviera Roma",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 93,
+      "rating": 3.9,
+      "reviewsCount": 291,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=400",
+      "location": {
+        "lat": 41.9009,
+        "lng": 12.5058,
+        "city": "Roma",
+        "country": "Italia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-rom-007",
+      "name": "Youth Hostel Roma",
+      "description": "Locatie centrala la un pret imbatabil, cu tot ce ai nevoie pentru o sedere reusita.",
+      "pricePerNight": 42,
+      "rating": 4,
+      "reviewsCount": 51,
+      "distanceFromCenter": 1.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=400",
+      "location": {
+        "lat": 41.9038,
+        "lng": 12.4943,
+        "city": "Roma",
+        "country": "Italia"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-rom-008",
+      "name": "Hotel Palace Roma",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 84,
+      "rating": 3.9,
+      "reviewsCount": 291,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
+      "location": {
+        "lat": 41.8976,
+        "lng": 12.4984,
+        "city": "Roma",
+        "country": "Italia"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-rom-009",
+      "name": "Hotel Vista Roma",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 105,
+      "rating": 4.6,
+      "reviewsCount": 352,
+      "distanceFromCenter": 0.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=400",
+      "location": {
+        "lat": 41.9023,
+        "lng": 12.5019,
+        "city": "Roma",
+        "country": "Italia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-29",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-rom-010",
+      "name": "Waldorf Astoria Roma",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 284,
+      "rating": 4.9,
+      "reviewsCount": 775,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Restaurant"
+      ],
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=400",
+      "location": {
+        "lat": 41.8989,
+        "lng": 12.5055,
+        "city": "Roma",
+        "country": "Italia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-nic-001",
+      "name": "Mandarin Oriental Nisa",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 291,
+      "rating": 4.6,
+      "reviewsCount": 116,
+      "distanceFromCenter": 0.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=400",
+      "location": {
+        "lat": 43.6904,
+        "lng": 7.2624,
+        "city": "Nisa",
+        "country": "Franta"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-nic-002",
+      "name": "Sofitel Nisa",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 225,
+      "rating": 4.8,
+      "reviewsCount": 292,
+      "distanceFromCenter": 0.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+      "location": {
+        "lat": 43.6951,
+        "lng": 7.2532,
+        "city": "Nisa",
+        "country": "Franta"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-nic-003",
+      "name": "Hotel Palace Nisa Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 84,
+      "rating": 4.3,
+      "reviewsCount": 78,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "location": {
+        "lat": 43.6919,
+        "lng": 7.2651,
+        "city": "Nisa",
+        "country": "Franta"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-03",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-nic-004",
+      "name": "Residence Inn Nisa Premium",
+      "description": "Hotel modern cu facilitati excelente, ideal pentru vacante si calatorii de afaceri.",
+      "pricePerNight": 151,
+      "rating": 4.1,
+      "reviewsCount": 752,
+      "distanceFromCenter": 1.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=400",
+      "location": {
+        "lat": 43.6872,
+        "lng": 7.2605,
+        "city": "Nisa",
+        "country": "Franta"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-nic-005",
+      "name": "Hotel Select Nisa",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 70,
+      "rating": 3.9,
+      "reviewsCount": 131,
+      "distanceFromCenter": 2.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400",
+      "location": {
+        "lat": 43.7013,
+        "lng": 7.2643,
+        "city": "Nisa",
+        "country": "Franta"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-nic-006",
+      "name": "Hotel Vista Nisa",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 48,
+      "rating": 4.3,
+      "reviewsCount": 81,
+      "distanceFromCenter": 1.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Concierge"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+      "location": {
+        "lat": 43.6904,
+        "lng": 7.2502,
+        "city": "Nisa",
+        "country": "Franta"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-nic-007",
+      "name": "Youth Hostel Nisa",
+      "description": "Cazare economica cu acces la transport public si atractii turistice.",
+      "pricePerNight": 54,
+      "rating": 3.7,
+      "reviewsCount": 241,
+      "distanceFromCenter": 1.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
+      "location": {
+        "lat": 43.7025,
+        "lng": 7.2669,
+        "city": "Nisa",
+        "country": "Franta"
+      },
+      "stars": 2,
+      "freeCancellation": false,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-nic-008",
+      "name": "Hotel Corso Nisa",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 56,
+      "rating": 4.2,
+      "reviewsCount": 339,
+      "distanceFromCenter": 1.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Business Center"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+      "location": {
+        "lat": 43.6977,
+        "lng": 7.2599,
+        "city": "Nisa",
+        "country": "Franta"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-dbv-001",
+      "name": "Ritz Dubrovnik",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 340,
+      "rating": 4.7,
+      "reviewsCount": 128,
+      "distanceFromCenter": 0.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
+      "location": {
+        "lat": 42.6554,
+        "lng": 18.0948,
+        "city": "Dubrovnik",
+        "country": "Croatia"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-dbv-002",
+      "name": "Intercontinental Dubrovnik",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 274,
+      "rating": 4.5,
+      "reviewsCount": 472,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+      "location": {
+        "lat": 42.6516,
+        "lng": 18.0926,
+        "city": "Dubrovnik",
+        "country": "Croatia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-07",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-dbv-003",
+      "name": "Hotel Park Dubrovnik Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 109,
+      "rating": 4.5,
+      "reviewsCount": 409,
+      "distanceFromCenter": 0.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa"
+      ],
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
+      "location": {
+        "lat": 42.6606,
+        "lng": 18.0926,
+        "city": "Dubrovnik",
+        "country": "Croatia"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-dbv-004",
+      "name": "Hotel Astoria Dubrovnik Premium",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 176,
+      "rating": 4.3,
+      "reviewsCount": 515,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Concierge"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400",
+      "location": {
+        "lat": 42.6463,
+        "lng": 18.0961,
+        "city": "Dubrovnik",
+        "country": "Croatia"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-dbv-005",
+      "name": "Hotel Continental Dubrovnik",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 86,
+      "rating": 4.2,
+      "reviewsCount": 22,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Spa"
+      ],
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400",
+      "location": {
+        "lat": 42.6441,
+        "lng": 18.0923,
+        "city": "Dubrovnik",
+        "country": "Croatia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-dbv-006",
+      "name": "Hotel Palace Dubrovnik",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 64,
+      "rating": 3.7,
+      "reviewsCount": 394,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=400",
+      "location": {
+        "lat": 42.6557,
+        "lng": 18.0851,
+        "city": "Dubrovnik",
+        "country": "Croatia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-dbv-007",
+      "name": "City Hostel Dubrovnik",
+      "description": "Cazare buget-friendly in centrul orasului, perfecta pentru exploratori activi.",
+      "pricePerNight": 64,
+      "rating": 4.1,
+      "reviewsCount": 228,
+      "distanceFromCenter": 2.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Spa"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=400",
+      "location": {
+        "lat": 42.6501,
+        "lng": 18.1026,
+        "city": "Dubrovnik",
+        "country": "Croatia"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-dbv-008",
+      "name": "Hotel Astoria Dubrovnik",
+      "description": "Hotel modern cu facilitati excelente, ideal pentru vacante si calatorii de afaceri.",
+      "pricePerNight": 139,
+      "rating": 4.6,
+      "reviewsCount": 284,
+      "distanceFromCenter": 1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Parking",
+        "Business Center"
+      ],
+      "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
+      "location": {
+        "lat": 42.6431,
+        "lng": 18.0953,
+        "city": "Dubrovnik",
+        "country": "Croatia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-ath-001",
+      "name": "Four Seasons Atena",
+      "description": "Experienta de lux in centrul orasului, cu servicii premium si atentie la detalii.",
+      "pricePerNight": 189,
+      "rating": 4.4,
+      "reviewsCount": 153,
+      "distanceFromCenter": 0.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=400",
+      "location": {
+        "lat": 37.9863,
+        "lng": 23.7278,
+        "city": "Atena",
+        "country": "Grecia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-ath-002",
+      "name": "Grand Hyatt Atena",
+      "description": "Experienta de lux in centrul orasului, cu servicii premium si atentie la detalii.",
+      "pricePerNight": 323,
+      "rating": 4.6,
+      "reviewsCount": 282,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=400",
+      "location": {
+        "lat": 37.9764,
+        "lng": 23.7339,
+        "city": "Atena",
+        "country": "Grecia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-ath-003",
+      "name": "Hotel Vista Atena Premium",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 133,
+      "rating": 4.5,
+      "reviewsCount": 553,
+      "distanceFromCenter": 0.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=400",
+      "location": {
+        "lat": 37.9832,
+        "lng": 23.7298,
+        "city": "Atena",
+        "country": "Grecia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-29",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-ath-004",
+      "name": "Grand Hotel Atena Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 100,
+      "rating": 4.1,
+      "reviewsCount": 730,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Restaurant"
+      ],
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+      "location": {
+        "lat": 37.9848,
+        "lng": 23.7183,
+        "city": "Atena",
+        "country": "Grecia"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-ath-005",
+      "name": "Hotel Central Atena",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 102,
+      "rating": 4.3,
+      "reviewsCount": 78,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "location": {
+        "lat": 37.9923,
+        "lng": 23.724,
+        "city": "Atena",
+        "country": "Grecia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-ath-006",
+      "name": "Hotel Park Atena",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 80,
+      "rating": 4,
+      "reviewsCount": 198,
+      "distanceFromCenter": 2.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=400",
+      "location": {
+        "lat": 37.9887,
+        "lng": 23.7346,
+        "city": "Atena",
+        "country": "Grecia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-ath-007",
+      "name": "Backpackers Hub Atena",
+      "description": "Cazare economica cu acces la transport public si atractii turistice.",
+      "pricePerNight": 33,
+      "rating": 3.2,
+      "reviewsCount": 409,
+      "distanceFromCenter": 1.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Pool",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400",
+      "location": {
+        "lat": 37.9752,
+        "lng": 23.7248,
+        "city": "Atena",
+        "country": "Grecia"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-ath-008",
+      "name": "Sofitel Atena",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 332,
+      "rating": 4.6,
+      "reviewsCount": 88,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Concierge"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+      "location": {
+        "lat": 37.9781,
+        "lng": 23.7234,
+        "city": "Atena",
+        "country": "Grecia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-ath-009",
+      "name": "Hotel Europa Atena",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 88,
+      "rating": 4.2,
+      "reviewsCount": 357,
+      "distanceFromCenter": 1.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
+      "location": {
+        "lat": 37.9738,
+        "lng": 23.7242,
+        "city": "Atena",
+        "country": "Grecia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-ath-010",
+      "name": "Hotel Central Atena Select",
+      "description": "Hotel modern cu facilitati excelente, ideal pentru vacante si calatorii de afaceri.",
+      "pricePerNight": 155,
+      "rating": 4.2,
+      "reviewsCount": 530,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+      "location": {
+        "lat": 37.9756,
+        "lng": 23.7195,
+        "city": "Atena",
+        "country": "Grecia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-prg-001",
+      "name": "Four Seasons Praga",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 250,
+      "rating": 4.8,
+      "reviewsCount": 280,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
+      "location": {
+        "lat": 50.0756,
+        "lng": 14.4388,
+        "city": "Praga",
+        "country": "Cehia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-prg-002",
+      "name": "Waldorf Astoria Praga",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 184,
+      "rating": 4.5,
+      "reviewsCount": 191,
+      "distanceFromCenter": 1.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+      "location": {
+        "lat": 50.0853,
+        "lng": 14.4429,
+        "city": "Praga",
+        "country": "Cehia"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-prg-003",
+      "name": "Hotel Metropolitan Praga Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 164,
+      "rating": 4.5,
+      "reviewsCount": 360,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
+      "location": {
+        "lat": 50.0749,
+        "lng": 14.4386,
+        "city": "Praga",
+        "country": "Cehia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-prg-004",
+      "name": "Hotel Continental Praga Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 131,
+      "rating": 4.1,
+      "reviewsCount": 134,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400",
+      "location": {
+        "lat": 50.0716,
+        "lng": 14.4368,
+        "city": "Praga",
+        "country": "Cehia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-prg-005",
+      "name": "Hotel Royal Praga",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 56,
+      "rating": 4.1,
+      "reviewsCount": 393,
+      "distanceFromCenter": 2.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Gym",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400",
+      "location": {
+        "lat": 50.0762,
+        "lng": 14.4417,
+        "city": "Praga",
+        "country": "Cehia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-prg-006",
+      "name": "Residence Inn Praga",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 100,
+      "rating": 3.9,
+      "reviewsCount": 375,
+      "distanceFromCenter": 2.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Gym",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=400",
+      "location": {
+        "lat": 50.0689,
+        "lng": 14.4429,
+        "city": "Praga",
+        "country": "Cehia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-07",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-prg-007",
+      "name": "Backpackers Hub Praga",
+      "description": "Locatie centrala la un pret imbatabil, cu tot ce ai nevoie pentru o sedere reusita.",
+      "pricePerNight": 45,
+      "rating": 4,
+      "reviewsCount": 194,
+      "distanceFromCenter": 2.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Beach Access",
+        "Concierge"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=400",
+      "location": {
+        "lat": 50.0711,
+        "lng": 14.4394,
+        "city": "Praga",
+        "country": "Cehia"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-prg-008",
+      "name": "Intercontinental Praga",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 221,
+      "rating": 4.8,
+      "reviewsCount": 65,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
+      "location": {
+        "lat": 50.0843,
+        "lng": 14.441,
+        "city": "Praga",
+        "country": "Cehia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-29",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-prg-009",
+      "name": "Hotel Riviera Praga",
+      "description": "Locatie accesibila, camere renovate si WiFi gratuit in tot hotelul.",
+      "pricePerNight": 88,
+      "rating": 3.9,
+      "reviewsCount": 81,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=400",
+      "location": {
+        "lat": 50.0702,
+        "lng": 14.4425,
+        "city": "Praga",
+        "country": "Cehia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-prg-010",
+      "name": "Hotel Europa Praga",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 87,
+      "rating": 4,
+      "reviewsCount": 22,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=400",
+      "location": {
+        "lat": 50.0673,
+        "lng": 14.4332,
+        "city": "Praga",
+        "country": "Cehia"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-ams-001",
+      "name": "Intercontinental Amsterdam",
+      "description": "Experienta de lux in centrul orasului, cu servicii premium si atentie la detalii.",
+      "pricePerNight": 311,
+      "rating": 4.6,
+      "reviewsCount": 414,
+      "distanceFromCenter": 1.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Pool",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=400",
+      "location": {
+        "lat": 52.3658,
+        "lng": 4.9101,
+        "city": "Amsterdam",
+        "country": "Olanda"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-ams-002",
+      "name": "Waldorf Astoria Amsterdam",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 245,
+      "rating": 4.4,
+      "reviewsCount": 586,
+      "distanceFromCenter": 0.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+      "location": {
+        "lat": 52.3591,
+        "lng": 4.9024,
+        "city": "Amsterdam",
+        "country": "Olanda"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-ams-003",
+      "name": "Hotel Select Amsterdam Premium",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 94,
+      "rating": 4.4,
+      "reviewsCount": 658,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "location": {
+        "lat": 52.3612,
+        "lng": 4.9085,
+        "city": "Amsterdam",
+        "country": "Olanda"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-03",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-ams-004",
+      "name": "Hotel Riviera Amsterdam Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 161,
+      "rating": 4.1,
+      "reviewsCount": 472,
+      "distanceFromCenter": 0.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Gym",
+        "Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=400",
+      "location": {
+        "lat": 52.3707,
+        "lng": 4.8984,
+        "city": "Amsterdam",
+        "country": "Olanda"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-ams-005",
+      "name": "Hotel Palace Amsterdam",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 76,
+      "rating": 3.9,
+      "reviewsCount": 234,
+      "distanceFromCenter": 1.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400",
+      "location": {
+        "lat": 52.3606,
+        "lng": 4.904,
+        "city": "Amsterdam",
+        "country": "Olanda"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-ams-006",
+      "name": "Boutique Hotel Amsterdam",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 55,
+      "rating": 3.6,
+      "reviewsCount": 219,
+      "distanceFromCenter": 1.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Concierge",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+      "location": {
+        "lat": 52.3697,
+        "lng": 4.9045,
+        "city": "Amsterdam",
+        "country": "Olanda"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-ams-007",
+      "name": "Backpackers Hub Amsterdam",
+      "description": "Cazare buget-friendly in centrul orasului, perfecta pentru exploratori activi.",
+      "pricePerNight": 58,
+      "rating": 3.9,
+      "reviewsCount": 162,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
+      "location": {
+        "lat": 52.3689,
+        "lng": 4.9,
+        "city": "Amsterdam",
+        "country": "Olanda"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-ams-008",
+      "name": "Waldorf Astoria Amsterdam II",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 201,
+      "rating": 4.4,
+      "reviewsCount": 401,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Concierge",
+        "Restaurant"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+      "location": {
+        "lat": 52.3671,
+        "lng": 4.9027,
+        "city": "Amsterdam",
+        "country": "Olanda"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-por-001",
+      "name": "Grand Hyatt Porto",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 160,
+      "rating": 4.8,
+      "reviewsCount": 117,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
+      "location": {
+        "lat": 41.1574,
+        "lng": -8.6364,
+        "city": "Porto",
+        "country": "Portugalia"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-por-002",
+      "name": "Mandarin Oriental Porto",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 293,
+      "rating": 4.5,
+      "reviewsCount": 412,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+      "location": {
+        "lat": 41.1553,
+        "lng": -8.6333,
+        "city": "Porto",
+        "country": "Portugalia"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-por-003",
+      "name": "Hotel Panorama Porto Premium",
+      "description": "Hotel modern cu facilitati excelente, ideal pentru vacante si calatorii de afaceri.",
+      "pricePerNight": 119,
+      "rating": 4,
+      "reviewsCount": 588,
+      "distanceFromCenter": 0.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
+      "location": {
+        "lat": 41.1566,
+        "lng": -8.6283,
+        "city": "Porto",
+        "country": "Portugalia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-por-004",
+      "name": "Hotel Royal Porto Premium",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 85,
+      "rating": 4.1,
+      "reviewsCount": 34,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400",
+      "location": {
+        "lat": 41.1617,
+        "lng": -8.6247,
+        "city": "Porto",
+        "country": "Portugalia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-por-005",
+      "name": "Hotel Corso Porto",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 92,
+      "rating": 4.2,
+      "reviewsCount": 228,
+      "distanceFromCenter": 2.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400",
+      "location": {
+        "lat": 41.1497,
+        "lng": -8.6199,
+        "city": "Porto",
+        "country": "Portugalia"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-por-006",
+      "name": "Hotel Select Porto",
+      "description": "Locatie accesibila, camere renovate si WiFi gratuit in tot hotelul.",
+      "pricePerNight": 70,
+      "rating": 3.7,
+      "reviewsCount": 125,
+      "distanceFromCenter": 2.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=400",
+      "location": {
+        "lat": 41.1526,
+        "lng": -8.6193,
+        "city": "Porto",
+        "country": "Portugalia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-por-007",
+      "name": "Generator Hostel Porto",
+      "description": "Simplu, curat si accesibil. Ideal pentru calatorii tineri si backpackeri.",
+      "pricePerNight": 27,
+      "rating": 3.3,
+      "reviewsCount": 380,
+      "distanceFromCenter": 1.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=400",
+      "location": {
+        "lat": 41.1554,
+        "lng": -8.6273,
+        "city": "Porto",
+        "country": "Portugalia"
+      },
+      "stars": 2,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-por-008",
+      "name": "Hotel Metropolitan Porto",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 53,
+      "rating": 3.5,
+      "reviewsCount": 264,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
+      "location": {
+        "lat": 41.1509,
+        "lng": -8.6273,
+        "city": "Porto",
+        "country": "Portugalia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-val-001",
+      "name": "The Peninsula Valencia",
+      "description": "Experienta de lux in centrul orasului, cu servicii premium si atentie la detalii.",
+      "pricePerNight": 208,
+      "rating": 4.4,
+      "reviewsCount": 228,
+      "distanceFromCenter": 1.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Concierge"
+      ],
+      "image": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=400",
+      "location": {
+        "lat": 39.4755,
+        "lng": -0.3679,
+        "city": "Valencia",
+        "country": "Spania"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-07",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-val-002",
+      "name": "Ritz Valencia",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 342,
+      "rating": 4.6,
+      "reviewsCount": 266,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=400",
+      "location": {
+        "lat": 39.4711,
+        "lng": -0.3844,
+        "city": "Valencia",
+        "country": "Spania"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-val-003",
+      "name": "Boutique Hotel Valencia Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 143,
+      "rating": 4.1,
+      "reviewsCount": 751,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Concierge"
+      ],
+      "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=400",
+      "location": {
+        "lat": 39.4644,
+        "lng": -0.3727,
+        "city": "Valencia",
+        "country": "Spania"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-val-004",
+      "name": "Hotel Europa Valencia Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 110,
+      "rating": 4.5,
+      "reviewsCount": 805,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Laundry"
+      ],
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+      "location": {
+        "lat": 39.4603,
+        "lng": -0.3751,
+        "city": "Valencia",
+        "country": "Spania"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-val-005",
+      "name": "Hotel Metropolitan Valencia",
+      "description": "Locatie accesibila, camere renovate si WiFi gratuit in tot hotelul.",
+      "pricePerNight": 108,
+      "rating": 3.6,
+      "reviewsCount": 267,
+      "distanceFromCenter": 1.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Laundry",
+        "Spa"
+      ],
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "location": {
+        "lat": 39.4601,
+        "lng": -0.3811,
+        "city": "Valencia",
+        "country": "Spania"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-07",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-val-006",
+      "name": "Hotel Panorama Valencia",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 86,
+      "rating": 4,
+      "reviewsCount": 412,
+      "distanceFromCenter": 1.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=400",
+      "location": {
+        "lat": 39.4705,
+        "lng": -0.3846,
+        "city": "Valencia",
+        "country": "Spania"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-val-007",
+      "name": "Youth Hostel Valencia",
+      "description": "Cazare economica cu acces la transport public si atractii turistice.",
+      "pricePerNight": 37,
+      "rating": 3.2,
+      "reviewsCount": 389,
+      "distanceFromCenter": 1.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Parking",
+        "Business Center"
+      ],
+      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400",
+      "location": {
+        "lat": 39.4741,
+        "lng": -0.3697,
+        "city": "Valencia",
+        "country": "Spania"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-val-008",
+      "name": "Hotel Panorama Valencia II",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 146,
+      "rating": 4,
+      "reviewsCount": 586,
+      "distanceFromCenter": 0.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Concierge"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+      "location": {
+        "lat": 39.4723,
+        "lng": -0.3774,
+        "city": "Valencia",
+        "country": "Spania"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-vie-001",
+      "name": "Intercontinental Viena",
+      "description": "Experienta de lux in centrul orasului, cu servicii premium si atentie la detalii.",
+      "pricePerNight": 257,
+      "rating": 4.4,
+      "reviewsCount": 196,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
+      "location": {
+        "lat": 48.2019,
+        "lng": 16.3688,
+        "city": "Viena",
+        "country": "Austria"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-vie-002",
+      "name": "Waldorf Astoria Viena",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 191,
+      "rating": 4.8,
+      "reviewsCount": 701,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+      "location": {
+        "lat": 48.2063,
+        "lng": 16.3692,
+        "city": "Viena",
+        "country": "Austria"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-vie-003",
+      "name": "Hotel Select Viena Premium",
+      "description": "Hotel modern cu facilitati excelente, ideal pentru vacante si calatorii de afaceri.",
+      "pricePerNight": 167,
+      "rating": 4.1,
+      "reviewsCount": 551,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
+      "location": {
+        "lat": 48.2021,
+        "lng": 16.3645,
+        "city": "Viena",
+        "country": "Austria"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-vie-004",
+      "name": "Hotel Riviera Viena Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 134,
+      "rating": 4.4,
+      "reviewsCount": 579,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Concierge",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+      "location": {
+        "lat": 48.2039,
+        "lng": 16.3769,
+        "city": "Viena",
+        "country": "Austria"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-vie-005",
+      "name": "Grand Hotel Viena",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 59,
+      "rating": 4.1,
+      "reviewsCount": 46,
+      "distanceFromCenter": 2.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
+      "location": {
+        "lat": 48.2021,
+        "lng": 16.3778,
+        "city": "Viena",
+        "country": "Austria"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-vie-006",
+      "name": "Boutique Hotel Viena",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 102,
+      "rating": 4.2,
+      "reviewsCount": 94,
+      "distanceFromCenter": 0.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Spa",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400",
+      "location": {
+        "lat": 48.207,
+        "lng": 16.3787,
+        "city": "Viena",
+        "country": "Austria"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-vie-007",
+      "name": "Backpackers Hub Viena",
+      "description": "Locatie centrala la un pret imbatabil, cu tot ce ai nevoie pentru o sedere reusita.",
+      "pricePerNight": 47,
+      "rating": 3.5,
+      "reviewsCount": 168,
+      "distanceFromCenter": 2.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning"
+      ],
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400",
+      "location": {
+        "lat": 48.2129,
+        "lng": 16.3821,
+        "city": "Viena",
+        "country": "Austria"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-vie-008",
+      "name": "Intercontinental Viena II",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 301,
+      "rating": 4.8,
+      "reviewsCount": 639,
+      "distanceFromCenter": 0.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Kitchen",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=400",
+      "location": {
+        "lat": 48.2073,
+        "lng": 16.3709,
+        "city": "Viena",
+        "country": "Austria"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-ber-001",
+      "name": "Grand Hyatt Berlin",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 306,
+      "rating": 4.5,
+      "reviewsCount": 238,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=400",
+      "location": {
+        "lat": 52.5299,
+        "lng": 13.4032,
+        "city": "Berlin",
+        "country": "Germania"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-ber-002",
+      "name": "Mandarin Oriental Berlin",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 240,
+      "rating": 4.4,
+      "reviewsCount": 61,
+      "distanceFromCenter": 1.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
+      "location": {
+        "lat": 52.5122,
+        "lng": 13.4057,
+        "city": "Berlin",
+        "country": "Germania"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-07",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-ber-003",
+      "name": "Hotel Panorama Berlin Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 92,
+      "rating": 4.3,
+      "reviewsCount": 258,
+      "distanceFromCenter": 1.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=400",
+      "location": {
+        "lat": 52.528,
+        "lng": 13.4002,
+        "city": "Berlin",
+        "country": "Germania"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-29",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-ber-004",
+      "name": "Hotel Royal Berlin Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 159,
+      "rating": 4.5,
+      "reviewsCount": 356,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=400",
+      "location": {
+        "lat": 52.5282,
+        "lng": 13.4041,
+        "city": "Berlin",
+        "country": "Germania"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-ber-005",
+      "name": "Hotel Corso Berlin",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 75,
+      "rating": 4,
+      "reviewsCount": 39,
+      "distanceFromCenter": 0.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=400",
+      "location": {
+        "lat": 52.528,
+        "lng": 13.4138,
+        "city": "Berlin",
+        "country": "Germania"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-ber-006",
+      "name": "Hotel Select Berlin",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 53,
+      "rating": 3.7,
+      "reviewsCount": 305,
+      "distanceFromCenter": 1.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+      "location": {
+        "lat": 52.5257,
+        "lng": 13.4083,
+        "city": "Berlin",
+        "country": "Germania"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-ber-007",
+      "name": "Generator Hostel Berlin",
+      "description": "Simplu, curat si accesibil. Ideal pentru calatorii tineri si backpackeri.",
+      "pricePerNight": 57,
+      "rating": 3.8,
+      "reviewsCount": 297,
+      "distanceFromCenter": 1.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Bar",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "location": {
+        "lat": 52.5211,
+        "lng": 13.4058,
+        "city": "Berlin",
+        "country": "Germania"
+      },
+      "stars": 2,
+      "freeCancellation": false,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-ber-008",
+      "name": "Hotel Park Berlin",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 79,
+      "rating": 4.1,
+      "reviewsCount": 376,
+      "distanceFromCenter": 1.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=400",
+      "location": {
+        "lat": 52.5293,
+        "lng": 13.41,
+        "city": "Berlin",
+        "country": "Germania"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "14:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-par-001",
+      "name": "The Peninsula Paris",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 155,
+      "rating": 4.7,
+      "reviewsCount": 716,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400",
+      "location": {
+        "lat": 48.8664,
+        "lng": 2.3555,
+        "city": "Paris",
+        "country": "Franta"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-03",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-par-002",
+      "name": "Ritz Paris",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 288,
+      "rating": 4.7,
+      "reviewsCount": 281,
+      "distanceFromCenter": 1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+      "location": {
+        "lat": 48.8482,
+        "lng": 2.3463,
+        "city": "Paris",
+        "country": "Franta"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-par-003",
+      "name": "Boutique Hotel Paris Premium",
+      "description": "Hotel modern cu facilitati excelente, ideal pentru vacante si calatorii de afaceri.",
+      "pricePerNight": 116,
+      "rating": 4.4,
+      "reviewsCount": 54,
+      "distanceFromCenter": 0.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Kitchen",
+        "Spa"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
+      "location": {
+        "lat": 48.8481,
+        "lng": 2.3556,
+        "city": "Paris",
+        "country": "Franta"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-29",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-par-004",
+      "name": "Hotel Europa Paris Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 83,
+      "rating": 4.2,
+      "reviewsCount": 618,
+      "distanceFromCenter": 0.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+      "location": {
+        "lat": 48.8515,
+        "lng": 2.3536,
+        "city": "Paris",
+        "country": "Franta"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-29",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-par-005",
+      "name": "Hotel Metropolitan Paris",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 90,
+      "rating": 4,
+      "reviewsCount": 182,
+      "distanceFromCenter": 1.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
+      "location": {
+        "lat": 48.8503,
+        "lng": 2.3439,
+        "city": "Paris",
+        "country": "Franta"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-par-006",
+      "name": "Hotel Panorama Paris",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 69,
+      "rating": 3.6,
+      "reviewsCount": 249,
+      "distanceFromCenter": 1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+      "location": {
+        "lat": 48.8563,
+        "lng": 2.3523,
+        "city": "Paris",
+        "country": "Franta"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-par-007",
+      "name": "Youth Hostel Paris",
+      "description": "Cazare economica cu acces la transport public si atractii turistice.",
+      "pricePerNight": 26,
+      "rating": 3.9,
+      "reviewsCount": 146,
+      "distanceFromCenter": 1.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
+      "location": {
+        "lat": 48.8662,
+        "lng": 2.347,
+        "city": "Paris",
+        "country": "Franta"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-par-008",
+      "name": "Hotel Metropolitan Paris II",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 119,
+      "rating": 4,
+      "reviewsCount": 217,
+      "distanceFromCenter": 1.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400",
+      "location": {
+        "lat": 48.8495,
+        "lng": 2.3549,
+        "city": "Paris",
+        "country": "Franta"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-mil-001",
+      "name": "Intercontinental Milano",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 203,
+      "rating": 4.8,
+      "reviewsCount": 565,
+      "distanceFromCenter": 1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400",
+      "location": {
+        "lat": 45.466,
+        "lng": 9.1895,
+        "city": "Milano",
+        "country": "Italia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-mil-002",
+      "name": "Waldorf Astoria Milano",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 337,
+      "rating": 4.5,
+      "reviewsCount": 325,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=400",
+      "location": {
+        "lat": 45.4577,
+        "lng": 9.1905,
+        "city": "Milano",
+        "country": "Italia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-mil-003",
+      "name": "Hotel Select Milano Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 140,
+      "rating": 4.4,
+      "reviewsCount": 81,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Restaurant"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=400",
+      "location": {
+        "lat": 45.4595,
+        "lng": 9.1874,
+        "city": "Milano",
+        "country": "Italia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-29",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-mil-004",
+      "name": "Hotel Riviera Milano Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 107,
+      "rating": 4.3,
+      "reviewsCount": 558,
+      "distanceFromCenter": 1.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Concierge"
+      ],
+      "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
+      "location": {
+        "lat": 45.4629,
+        "lng": 9.1951,
+        "city": "Milano",
+        "country": "Italia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-mil-005",
+      "name": "Grand Hotel Milano",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 106,
+      "rating": 3.6,
+      "reviewsCount": 340,
+      "distanceFromCenter": 1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar"
+      ],
+      "image": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=400",
+      "location": {
+        "lat": 45.4711,
+        "lng": 9.1998,
+        "city": "Milano",
+        "country": "Italia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-mil-006",
+      "name": "Boutique Hotel Milano",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 85,
+      "rating": 3.8,
+      "reviewsCount": 264,
+      "distanceFromCenter": 2.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=400",
+      "location": {
+        "lat": 45.4655,
+        "lng": 9.1888,
+        "city": "Milano",
+        "country": "Italia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-mil-007",
+      "name": "Backpackers Hub Milano",
+      "description": "Simplu, curat si accesibil. Ideal pentru calatorii tineri si backpackeri.",
+      "pricePerNight": 36,
+      "rating": 4,
+      "reviewsCount": 190,
+      "distanceFromCenter": 2.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Parking",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=400",
+      "location": {
+        "lat": 45.4564,
+        "lng": 9.1881,
+        "city": "Milano",
+        "country": "Italia"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-03",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-mil-008",
+      "name": "Sofitel Milano",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 291,
+      "rating": 4.7,
+      "reviewsCount": 418,
+      "distanceFromCenter": 1.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Restaurant",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+      "location": {
+        "lat": 45.4703,
+        "lng": 9.1872,
+        "city": "Milano",
+        "country": "Italia"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-bud-001",
+      "name": "Grand Hyatt Budapesta",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 252,
+      "rating": 4.5,
+      "reviewsCount": 34,
+      "distanceFromCenter": 1.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "location": {
+        "lat": 47.4985,
+        "lng": 19.0363,
+        "city": "Budapesta",
+        "country": "Ungaria"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-bud-002",
+      "name": "Mandarin Oriental Budapesta",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 186,
+      "rating": 4.7,
+      "reviewsCount": 103,
+      "distanceFromCenter": 1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=400",
+      "location": {
+        "lat": 47.4999,
+        "lng": 19.0481,
+        "city": "Budapesta",
+        "country": "Ungaria"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-bud-003",
+      "name": "Hotel Panorama Budapesta Premium",
+      "description": "Hotel modern cu facilitati excelente, ideal pentru vacante si calatorii de afaceri.",
+      "pricePerNight": 165,
+      "rating": 4,
+      "reviewsCount": 808,
+      "distanceFromCenter": 1.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400",
+      "location": {
+        "lat": 47.5062,
+        "lng": 19.0435,
+        "city": "Budapesta",
+        "country": "Ungaria"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-bud-004",
+      "name": "Hotel Royal Budapesta Premium",
+      "description": "Hotel modern cu facilitati excelente, ideal pentru vacante si calatorii de afaceri.",
+      "pricePerNight": 132,
+      "rating": 4.3,
+      "reviewsCount": 323,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Concierge"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+      "location": {
+        "lat": 47.5036,
+        "lng": 19.035,
+        "city": "Budapesta",
+        "country": "Ungaria"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-bud-005",
+      "name": "Hotel Corso Budapesta",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 57,
+      "rating": 3.6,
+      "reviewsCount": 134,
+      "distanceFromCenter": 2.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
+      "location": {
+        "lat": 47.5045,
+        "lng": 19.0471,
+        "city": "Budapesta",
+        "country": "Ungaria"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-bud-006",
+      "name": "Hotel Select Budapesta",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 101,
+      "rating": 4.1,
+      "reviewsCount": 235,
+      "distanceFromCenter": 1.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Spa"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+      "location": {
+        "lat": 47.4895,
+        "lng": 19.0486,
+        "city": "Budapesta",
+        "country": "Ungaria"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-bud-007",
+      "name": "Generator Hostel Budapesta",
+      "description": "Cazare buget-friendly in centrul orasului, perfecta pentru exploratori activi.",
+      "pricePerNight": 46,
+      "rating": 3.3,
+      "reviewsCount": 37,
+      "distanceFromCenter": 1.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Laundry"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
+      "location": {
+        "lat": 47.4943,
+        "lng": 19.0459,
+        "city": "Budapesta",
+        "country": "Ungaria"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-bud-008",
+      "name": "Hotel Central Budapesta",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 90,
+      "rating": 4.2,
+      "reviewsCount": 73,
+      "distanceFromCenter": 2.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Room Service",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+      "location": {
+        "lat": 47.4933,
+        "lng": 19.0464,
+        "city": "Budapesta",
+        "country": "Ungaria"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-cai-001",
+      "name": "The Peninsula Cairo",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 301,
+      "rating": 4.4,
+      "reviewsCount": 36,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Business Center",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
+      "location": {
+        "lat": 30.0431,
+        "lng": 31.2378,
+        "city": "Cairo",
+        "country": "Egipt"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-cai-002",
+      "name": "Ritz Cairo",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 235,
+      "rating": 4.7,
+      "reviewsCount": 289,
+      "distanceFromCenter": 1.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400",
+      "location": {
+        "lat": 30.0386,
+        "lng": 31.2377,
+        "city": "Cairo",
+        "country": "Egipt"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-03",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-cai-003",
+      "name": "Boutique Hotel Cairo Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 89,
+      "rating": 4.2,
+      "reviewsCount": 48,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Concierge"
+      ],
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400",
+      "location": {
+        "lat": 30.0475,
+        "lng": 31.2338,
+        "city": "Cairo",
+        "country": "Egipt"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-cai-004",
+      "name": "Hotel Europa Cairo Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 156,
+      "rating": 4.5,
+      "reviewsCount": 205,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=400",
+      "location": {
+        "lat": 30.0418,
+        "lng": 31.2385,
+        "city": "Cairo",
+        "country": "Egipt"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-cai-005",
+      "name": "Hotel Metropolitan Cairo",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 73,
+      "rating": 3.6,
+      "reviewsCount": 203,
+      "distanceFromCenter": 0.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=400",
+      "location": {
+        "lat": 30.0349,
+        "lng": 31.2313,
+        "city": "Cairo",
+        "country": "Egipt"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-cai-006",
+      "name": "Hotel Panorama Cairo",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 51,
+      "rating": 3.5,
+      "reviewsCount": 237,
+      "distanceFromCenter": 2.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Spa",
+        "Parking"
+      ],
+      "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
+      "location": {
+        "lat": 30.0501,
+        "lng": 31.2416,
+        "city": "Cairo",
+        "country": "Egipt"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-cai-007",
+      "name": "Youth Hostel Cairo",
+      "description": "Locatie centrala la un pret imbatabil, cu tot ce ai nevoie pentru o sedere reusita.",
+      "pricePerNight": 56,
+      "rating": 3.5,
+      "reviewsCount": 301,
+      "distanceFromCenter": 1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Laundry"
+      ],
+      "image": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=400",
+      "location": {
+        "lat": 30.0367,
+        "lng": 31.2396,
+        "city": "Cairo",
+        "country": "Egipt"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-cai-008",
+      "name": "Hotel Corso Cairo",
+      "description": "Hotel modern cu facilitati excelente, ideal pentru vacante si calatorii de afaceri.",
+      "pricePerNight": 92,
+      "rating": 4.2,
+      "reviewsCount": 96,
+      "distanceFromCenter": 0.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=400",
+      "location": {
+        "lat": 30.0402,
+        "lng": 31.2257,
+        "city": "Cairo",
+        "country": "Egipt"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-cpt-001",
+      "name": "Intercontinental Cape Town",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 350,
+      "rating": 4.6,
+      "reviewsCount": 226,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=400",
+      "location": {
+        "lat": -33.9283,
+        "lng": 18.43,
+        "city": "Cape Town",
+        "country": "Africa de Sud"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-cpt-002",
+      "name": "Waldorf Astoria Cape Town",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 283,
+      "rating": 4.4,
+      "reviewsCount": 370,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Laundry",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+      "location": {
+        "lat": -33.9232,
+        "lng": 18.4171,
+        "city": "Cape Town",
+        "country": "Africa de Sud"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-cpt-003",
+      "name": "Hotel Select Cape Town Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 114,
+      "rating": 4.4,
+      "reviewsCount": 528,
+      "distanceFromCenter": 1.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "location": {
+        "lat": -33.9294,
+        "lng": 18.421,
+        "city": "Cape Town",
+        "country": "Africa de Sud"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-cpt-004",
+      "name": "Hotel Riviera Cape Town Premium",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 80,
+      "rating": 4,
+      "reviewsCount": 782,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=400",
+      "location": {
+        "lat": -33.9318,
+        "lng": 18.4278,
+        "city": "Cape Town",
+        "country": "Africa de Sud"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-cpt-005",
+      "name": "Grand Hotel Cape Town",
+      "description": "Locatie accesibila, camere renovate si WiFi gratuit in tot hotelul.",
+      "pricePerNight": 89,
+      "rating": 3.9,
+      "reviewsCount": 325,
+      "distanceFromCenter": 2.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400",
+      "location": {
+        "lat": -33.9341,
+        "lng": 18.4246,
+        "city": "Cape Town",
+        "country": "Africa de Sud"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-cpt-006",
+      "name": "Boutique Hotel Cape Town",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 67,
+      "rating": 3.6,
+      "reviewsCount": 73,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Restaurant",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+      "location": {
+        "lat": -33.9294,
+        "lng": 18.429,
+        "city": "Cape Town",
+        "country": "Africa de Sud"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-cpt-007",
+      "name": "Backpackers Hub Cape Town",
+      "description": "Cazare economica cu acces la transport public si atractii turistice.",
+      "pricePerNight": 25,
+      "rating": 3.9,
+      "reviewsCount": 398,
+      "distanceFromCenter": 0.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
+      "location": {
+        "lat": -33.918,
+        "lng": 18.423,
+        "city": "Cape Town",
+        "country": "Africa de Sud"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-cpt-008",
+      "name": "Mandarin Oriental Cape Town",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 192,
+      "rating": 4.6,
+      "reviewsCount": 724,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Laundry"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+      "location": {
+        "lat": -33.9185,
+        "lng": 18.417,
+        "city": "Cape Town",
+        "country": "Africa de Sud"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-jnb-001",
+      "name": "Grand Hyatt Johannesburg",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 198,
+      "rating": 4.7,
+      "reviewsCount": 796,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
+      "location": {
+        "lat": -26.2134,
+        "lng": 28.0448,
+        "city": "Johannesburg",
+        "country": "Africa de Sud"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-07",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-jnb-002",
+      "name": "Mandarin Oriental Johannesburg",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 332,
+      "rating": 4.5,
+      "reviewsCount": 114,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Restaurant",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+      "location": {
+        "lat": -26.2139,
+        "lng": 28.0501,
+        "city": "Johannesburg",
+        "country": "Africa de Sud"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-jnb-003",
+      "name": "Hotel Panorama Johannesburg Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 138,
+      "rating": 4.6,
+      "reviewsCount": 155,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
+      "location": {
+        "lat": -26.1978,
+        "lng": 28.0555,
+        "city": "Johannesburg",
+        "country": "Africa de Sud"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-jnb-004",
+      "name": "Hotel Royal Johannesburg Premium",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 105,
+      "rating": 4.1,
+      "reviewsCount": 453,
+      "distanceFromCenter": 1.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400",
+      "location": {
+        "lat": -26.2002,
+        "lng": 28.041,
+        "city": "Johannesburg",
+        "country": "Africa de Sud"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-jnb-005",
+      "name": "Hotel Corso Johannesburg",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 105,
+      "rating": 4.2,
+      "reviewsCount": 208,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400",
+      "location": {
+        "lat": -26.1985,
+        "lng": 28.0555,
+        "city": "Johannesburg",
+        "country": "Africa de Sud"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-jnb-006",
+      "name": "Hotel Select Johannesburg",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 83,
+      "rating": 3.7,
+      "reviewsCount": 361,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=400",
+      "location": {
+        "lat": -26.2105,
+        "lng": 28.0534,
+        "city": "Johannesburg",
+        "country": "Africa de Sud"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-tun-001",
+      "name": "Four Seasons Tunis",
+      "description": "Experienta de lux in centrul orasului, cu servicii premium si atentie la detalii.",
+      "pricePerNight": 235,
+      "rating": 4.6,
+      "reviewsCount": 786,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=400",
+      "location": {
+        "lat": 36.8026,
+        "lng": 10.1748,
+        "city": "Tunis",
+        "country": "Tunisia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-29",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-tun-002",
+      "name": "Waldorf Astoria Tunis",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 169,
+      "rating": 4.8,
+      "reviewsCount": 271,
+      "distanceFromCenter": 0.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Kitchen",
+        "Restaurant"
+      ],
+      "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
+      "location": {
+        "lat": 36.8145,
+        "lng": 10.1836,
+        "city": "Tunis",
+        "country": "Tunisia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-tun-003",
+      "name": "Hotel Metropolitan Tunis Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 156,
+      "rating": 4.2,
+      "reviewsCount": 102,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Restaurant"
+      ],
+      "image": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=400",
+      "location": {
+        "lat": 36.8022,
+        "lng": 10.1749,
+        "city": "Tunis",
+        "country": "Tunisia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-29",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-tun-004",
+      "name": "Hotel Continental Tunis Premium",
+      "description": "Hotel modern cu facilitati excelente, ideal pentru vacante si calatorii de afaceri.",
+      "pricePerNight": 123,
+      "rating": 4.1,
+      "reviewsCount": 387,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=400",
+      "location": {
+        "lat": 36.8031,
+        "lng": 10.1778,
+        "city": "Tunis",
+        "country": "Tunisia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-tun-005",
+      "name": "Hotel Royal Tunis",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 51,
+      "rating": 3.9,
+      "reviewsCount": 308,
+      "distanceFromCenter": 1.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=400",
+      "location": {
+        "lat": 36.808,
+        "lng": 10.1841,
+        "city": "Tunis",
+        "country": "Tunisia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-tun-006",
+      "name": "Residence Inn Tunis",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 95,
+      "rating": 4.3,
+      "reviewsCount": 180,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Room Service",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+      "location": {
+        "lat": 36.8095,
+        "lng": 10.1805,
+        "city": "Tunis",
+        "country": "Tunisia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-dxb-001",
+      "name": "Ritz Dubai",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 272,
+      "rating": 4.4,
+      "reviewsCount": 768,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Concierge"
+      ],
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "location": {
+        "lat": 25.1998,
+        "lng": 55.2707,
+        "city": "Dubai",
+        "country": "EAU"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-07",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-dxb-002",
+      "name": "Intercontinental Dubai",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 205,
+      "rating": 4.6,
+      "reviewsCount": 157,
+      "distanceFromCenter": 1.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Parking",
+        "Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=400",
+      "location": {
+        "lat": 25.21,
+        "lng": 55.2763,
+        "city": "Dubai",
+        "country": "EAU"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-dxb-003",
+      "name": "Hotel Park Dubai Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 175,
+      "rating": 4.6,
+      "reviewsCount": 230,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400",
+      "location": {
+        "lat": 25.1995,
+        "lng": 55.2738,
+        "city": "Dubai",
+        "country": "EAU"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-dxb-004",
+      "name": "Hotel Astoria Dubai Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 141,
+      "rating": 4.3,
+      "reviewsCount": 500,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Gym",
+        "Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+      "location": {
+        "lat": 25.2089,
+        "lng": 55.2675,
+        "city": "Dubai",
+        "country": "EAU"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-03",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-dxb-005",
+      "name": "Hotel Continental Dubai",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 63,
+      "rating": 3.7,
+      "reviewsCount": 82,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
+      "location": {
+        "lat": 25.208,
+        "lng": 55.2769,
+        "city": "Dubai",
+        "country": "EAU"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-dxb-006",
+      "name": "Hotel Palace Dubai",
+      "description": "Locatie accesibila, camere renovate si WiFi gratuit in tot hotelul.",
+      "pricePerNight": 107,
+      "rating": 4,
+      "reviewsCount": 238,
+      "distanceFromCenter": 1.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+      "location": {
+        "lat": 25.2137,
+        "lng": 55.261,
+        "city": "Dubai",
+        "country": "EAU"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-dxb-007",
+      "name": "City Hostel Dubai",
+      "description": "Simplu, curat si accesibil. Ideal pentru calatorii tineri si backpackeri.",
+      "pricePerNight": 50,
+      "rating": 3.3,
+      "reviewsCount": 234,
+      "distanceFromCenter": 0.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
+      "location": {
+        "lat": 25.1974,
+        "lng": 55.2725,
+        "city": "Dubai",
+        "country": "EAU"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-29",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-dxb-008",
+      "name": "Boutique Hotel Dubai",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 80,
+      "rating": 4.4,
+      "reviewsCount": 154,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Garden"
+      ],
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+      "location": {
+        "lat": 25.2076,
+        "lng": 55.277,
+        "city": "Dubai",
+        "country": "EAU"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-bkk-001",
+      "name": "Four Seasons Bangkok",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 320,
+      "rating": 4.5,
+      "reviewsCount": 528,
+      "distanceFromCenter": 0.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Restaurant",
+        "Business Center"
+      ],
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
+      "location": {
+        "lat": 13.7552,
+        "lng": 100.5069,
+        "city": "Bangkok",
+        "country": "Thailanda"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-bkk-002",
+      "name": "Grand Hyatt Bangkok",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 254,
+      "rating": 4.8,
+      "reviewsCount": 742,
+      "distanceFromCenter": 0.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Beach Access",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400",
+      "location": {
+        "lat": 13.7625,
+        "lng": 100.4971,
+        "city": "Bangkok",
+        "country": "Thailanda"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-bkk-003",
+      "name": "Hotel Vista Bangkok Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 99,
+      "rating": 4.2,
+      "reviewsCount": 256,
+      "distanceFromCenter": 1.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400",
+      "location": {
+        "lat": 13.7591,
+        "lng": 100.5068,
+        "city": "Bangkok",
+        "country": "Thailanda"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-03",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-bkk-004",
+      "name": "Grand Hotel Bangkok Premium",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 166,
+      "rating": 4.4,
+      "reviewsCount": 280,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Beach Access",
+        "Parking"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=400",
+      "location": {
+        "lat": 13.7579,
+        "lng": 100.4973,
+        "city": "Bangkok",
+        "country": "Thailanda"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-bkk-005",
+      "name": "Hotel Central Bangkok",
+      "description": "Locatie accesibila, camere renovate si WiFi gratuit in tot hotelul.",
+      "pricePerNight": 79,
+      "rating": 3.7,
+      "reviewsCount": 264,
+      "distanceFromCenter": 1.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=400",
+      "location": {
+        "lat": 13.7482,
+        "lng": 100.5092,
+        "city": "Bangkok",
+        "country": "Thailanda"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-bkk-006",
+      "name": "Hotel Park Bangkok",
+      "description": "Locatie accesibila, camere renovate si WiFi gratuit in tot hotelul.",
+      "pricePerNight": 58,
+      "rating": 3.5,
+      "reviewsCount": 252,
+      "distanceFromCenter": 1.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
+      "location": {
+        "lat": 13.7475,
+        "lng": 100.5043,
+        "city": "Bangkok",
+        "country": "Thailanda"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-bkk-007",
+      "name": "Backpackers Hub Bangkok",
+      "description": "Cazare economica cu acces la transport public si atractii turistice.",
+      "pricePerNight": 60,
+      "rating": 3.6,
+      "reviewsCount": 372,
+      "distanceFromCenter": 1.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning"
+      ],
+      "image": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=400",
+      "location": {
+        "lat": 13.7638,
+        "lng": 100.5065,
+        "city": "Bangkok",
+        "country": "Thailanda"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-bkk-008",
+      "name": "Grand Hyatt Bangkok II",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 324,
+      "rating": 4.7,
+      "reviewsCount": 73,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Restaurant",
+        "Parking"
+      ],
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=400",
+      "location": {
+        "lat": 13.7615,
+        "lng": 100.497,
+        "city": "Bangkok",
+        "country": "Thailanda"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-sin-001",
+      "name": "Mandarin Oriental Singapore",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 169,
+      "rating": 4.6,
+      "reviewsCount": 697,
+      "distanceFromCenter": 1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Laundry",
+        "Parking"
+      ],
+      "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=400",
+      "location": {
+        "lat": 1.3445,
+        "lng": 103.8202,
+        "city": "Singapore",
+        "country": "Singapore"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-sin-002",
+      "name": "Sofitel Singapore",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 303,
+      "rating": 4.5,
+      "reviewsCount": 162,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Parking"
+      ],
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+      "location": {
+        "lat": 1.3498,
+        "lng": 103.8163,
+        "city": "Singapore",
+        "country": "Singapore"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-sin-003",
+      "name": "Hotel Palace Singapore Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 123,
+      "rating": 4.2,
+      "reviewsCount": 318,
+      "distanceFromCenter": 0.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "location": {
+        "lat": 1.3545,
+        "lng": 103.8229,
+        "city": "Singapore",
+        "country": "Singapore"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-30",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-sin-004",
+      "name": "Residence Inn Singapore Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 90,
+      "rating": 4,
+      "reviewsCount": 437,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Laundry"
+      ],
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=400",
+      "location": {
+        "lat": 1.3614,
+        "lng": 103.8213,
+        "city": "Singapore",
+        "country": "Singapore"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-sin-005",
+      "name": "Hotel Europa Singapore",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 95,
+      "rating": 3.9,
+      "reviewsCount": 22,
+      "distanceFromCenter": 1.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Concierge",
+        "Spa"
+      ],
+      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400",
+      "location": {
+        "lat": 1.3576,
+        "lng": 103.8154,
+        "city": "Singapore",
+        "country": "Singapore"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "14:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-sin-006",
+      "name": "Hotel Vista Singapore",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 74,
+      "rating": 3.8,
+      "reviewsCount": 268,
+      "distanceFromCenter": 0.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Business Center",
+        "Parking"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+      "location": {
+        "lat": 1.3555,
+        "lng": 103.8272,
+        "city": "Singapore",
+        "country": "Singapore"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-sin-007",
+      "name": "Youth Hostel Singapore",
+      "description": "Cazare buget-friendly in centrul orasului, perfecta pentru exploratori activi.",
+      "pricePerNight": 29,
+      "rating": 3.9,
+      "reviewsCount": 194,
+      "distanceFromCenter": 2.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Room Service",
+        "Spa"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
+      "location": {
+        "lat": 1.349,
+        "lng": 103.8115,
+        "city": "Singapore",
+        "country": "Singapore"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-sin-008",
+      "name": "Hotel Vista Singapore II",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 50,
+      "rating": 3.9,
+      "reviewsCount": 272,
+      "distanceFromCenter": 2.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Restaurant",
+        "Bar"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+      "location": {
+        "lat": 1.358,
+        "lng": 103.8209,
+        "city": "Singapore",
+        "country": "Singapore"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-kul-001",
+      "name": "Ritz Kuala Lumpur",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 218,
+      "rating": 4.6,
+      "reviewsCount": 755,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Pool",
+        "Restaurant"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
+      "location": {
+        "lat": 3.1449,
+        "lng": 101.6813,
+        "city": "Kuala Lumpur",
+        "country": "Malaezia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-kul-002",
+      "name": "Intercontinental Kuala Lumpur",
+      "description": "Experienta de lux in centrul orasului, cu servicii premium si atentie la detalii.",
+      "pricePerNight": 152,
+      "rating": 4.4,
+      "reviewsCount": 641,
+      "distanceFromCenter": 0.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Business Center"
+      ],
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+      "location": {
+        "lat": 3.1377,
+        "lng": 101.6927,
+        "city": "Kuala Lumpur",
+        "country": "Malaezia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-kul-003",
+      "name": "Hotel Park Kuala Lumpur Premium",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 148,
+      "rating": 4.4,
+      "reviewsCount": 648,
+      "distanceFromCenter": 0.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Kitchen",
+        "Beach Access"
+      ],
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
+      "location": {
+        "lat": 3.1474,
+        "lng": 101.6945,
+        "city": "Kuala Lumpur",
+        "country": "Malaezia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-kul-004",
+      "name": "Hotel Astoria Kuala Lumpur Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 115,
+      "rating": 4.2,
+      "reviewsCount": 63,
+      "distanceFromCenter": 0.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Pool",
+        "Laundry"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400",
+      "location": {
+        "lat": 3.1325,
+        "lng": 101.6888,
+        "city": "Kuala Lumpur",
+        "country": "Malaezia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-03",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-kul-005",
+      "name": "Hotel Continental Kuala Lumpur",
+      "description": "Locatie accesibila, camere renovate si WiFi gratuit in tot hotelul.",
+      "pricePerNight": 46,
+      "rating": 4.1,
+      "reviewsCount": 29,
+      "distanceFromCenter": 2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400",
+      "location": {
+        "lat": 3.1456,
+        "lng": 101.6784,
+        "city": "Kuala Lumpur",
+        "country": "Malaezia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-kul-006",
+      "name": "Hotel Palace Kuala Lumpur",
+      "description": "Locatie accesibila, camere renovate si WiFi gratuit in tot hotelul.",
+      "pricePerNight": 89,
+      "rating": 4.1,
+      "reviewsCount": 359,
+      "distanceFromCenter": 2.5,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Business Center",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=400",
+      "location": {
+        "lat": 3.1347,
+        "lng": 101.6862,
+        "city": "Kuala Lumpur",
+        "country": "Malaezia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-31",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-rio-001",
+      "name": "The Peninsula Rio de Janeiro",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 254,
+      "rating": 4.6,
+      "reviewsCount": 779,
+      "distanceFromCenter": 0.4,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Laundry",
+        "Restaurant"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=400",
+      "location": {
+        "lat": -22.9062,
+        "lng": -43.1654,
+        "city": "Rio de Janeiro",
+        "country": "Brazilia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-rio-002",
+      "name": "Sofitel Rio de Janeiro",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 188,
+      "rating": 4.5,
+      "reviewsCount": 80,
+      "distanceFromCenter": 1.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Business Center"
+      ],
+      "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
+      "location": {
+        "lat": -22.9116,
+        "lng": -43.1735,
+        "city": "Rio de Janeiro",
+        "country": "Brazilia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-03",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-rio-003",
+      "name": "Hotel Central Rio de Janeiro Premium",
+      "description": "Hotel modern cu facilitati excelente, ideal pentru vacante si calatorii de afaceri.",
+      "pricePerNight": 166,
+      "rating": 4.2,
+      "reviewsCount": 403,
+      "distanceFromCenter": 1.1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=400",
+      "location": {
+        "lat": -22.9115,
+        "lng": -43.1773,
+        "city": "Rio de Janeiro",
+        "country": "Brazilia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-03",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-rio-004",
+      "name": "Hotel Corso Rio de Janeiro Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 133,
+      "rating": 4.5,
+      "reviewsCount": 623,
+      "distanceFromCenter": 1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Pool",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=400",
+      "location": {
+        "lat": -22.9167,
+        "lng": -43.1797,
+        "city": "Rio de Janeiro",
+        "country": "Brazilia"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-rio-005",
+      "name": "Hotel Astoria Rio de Janeiro",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 58,
+      "rating": 3.9,
+      "reviewsCount": 336,
+      "distanceFromCenter": 2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Restaurant"
+      ],
+      "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=400",
+      "location": {
+        "lat": -22.8986,
+        "lng": -43.1816,
+        "city": "Rio de Janeiro",
+        "country": "Brazilia"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-rio-006",
+      "name": "Hotel Riviera Rio de Janeiro",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 101,
+      "rating": 4.3,
+      "reviewsCount": 330,
+      "distanceFromCenter": 2.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+      "location": {
+        "lat": -22.9163,
+        "lng": -43.1766,
+        "city": "Rio de Janeiro",
+        "country": "Brazilia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-27",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-rio-007",
+      "name": "Youth Hostel Rio de Janeiro",
+      "description": "Simplu, curat si accesibil. Ideal pentru calatorii tineri si backpackeri.",
+      "pricePerNight": 46,
+      "rating": 4,
+      "reviewsCount": 177,
+      "distanceFromCenter": 2.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning"
+      ],
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "location": {
+        "lat": -22.9116,
+        "lng": -43.179,
+        "city": "Rio de Janeiro",
+        "country": "Brazilia"
+      },
+      "stars": 2,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-rio-008",
+      "name": "Hotel Central Rio de Janeiro",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 46,
+      "rating": 3.5,
+      "reviewsCount": 71,
+      "distanceFromCenter": 0.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Pool",
+        "Business Center"
+      ],
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=400",
+      "location": {
+        "lat": -22.901,
+        "lng": -43.1676,
+        "city": "Rio de Janeiro",
+        "country": "Brazilia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-03",
+        "endDate": "2026-09-27",
+        "roomsLeft": 5
+      }
+    },
+    {
+      "id": "h-scl-001",
+      "name": "Ritz Santiago",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 303,
+      "rating": 4.9,
+      "reviewsCount": 383,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Concierge",
+        "Business Center"
+      ],
+      "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=400",
+      "location": {
+        "lat": -33.4446,
+        "lng": -70.6757,
+        "city": "Santiago",
+        "country": "Chile"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-scl-002",
+      "name": "Four Seasons Santiago",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 237,
+      "rating": 4.5,
+      "reviewsCount": 389,
+      "distanceFromCenter": 1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Beach Access",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+      "location": {
+        "lat": -33.445,
+        "lng": -70.6658,
+        "city": "Santiago",
+        "country": "Chile"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 7
+      }
+    },
+    {
+      "id": "h-scl-003",
+      "name": "Hotel Europa Santiago Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 90,
+      "rating": 4.3,
+      "reviewsCount": 105,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Business Center"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
+      "location": {
+        "lat": -33.4492,
+        "lng": -70.6608,
+        "city": "Santiago",
+        "country": "Chile"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 1
+      }
+    },
+    {
+      "id": "h-scl-004",
+      "name": "Hotel Vista Santiago Premium",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 157,
+      "rating": 4.6,
+      "reviewsCount": 318,
+      "distanceFromCenter": 1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Business Center"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+      "location": {
+        "lat": -33.4449,
+        "lng": -70.6746,
+        "city": "Santiago",
+        "country": "Chile"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "13:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-scl-005",
+      "name": "Hotel Panorama Santiago",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 74,
+      "rating": 3.8,
+      "reviewsCount": 212,
+      "distanceFromCenter": 1.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400",
+      "location": {
+        "lat": -33.4395,
+        "lng": -70.6602,
+        "city": "Santiago",
+        "country": "Chile"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-03",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-scl-006",
+      "name": "Hotel Central Santiago",
+      "description": "Hotel confortabil cu o locatie buna si facilitati esentiale pentru o sedere placuta.",
+      "pricePerNight": 52,
+      "rating": 3.6,
+      "reviewsCount": 102,
+      "distanceFromCenter": 1.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Gym",
+        "Pool"
+      ],
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+      "location": {
+        "lat": -33.4488,
+        "lng": -70.6663,
+        "city": "Santiago",
+        "country": "Chile"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-02",
+        "endDate": "2026-09-27",
+        "roomsLeft": 8
+      }
+    },
+    {
+      "id": "h-lim-001",
+      "name": "The Peninsula Lima",
+      "description": "Hotel de 5 stele cu vederi panoramice, spa complet si restaurant gastronomic.",
+      "pricePerNight": 340,
+      "rating": 4.9,
+      "reviewsCount": 280,
+      "distanceFromCenter": 1.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Pool",
+        "Laundry"
+      ],
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
+      "location": {
+        "lat": -12.0464,
+        "lng": -77.0463,
+        "city": "Lima",
+        "country": "Peru"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-lim-002",
+      "name": "Ritz Lima",
+      "description": "Destinatia ideala pentru calatorii care apreciaza luxul autentic si confortul suprem.",
+      "pricePerNight": 273,
+      "rating": 4.7,
+      "reviewsCount": 218,
+      "distanceFromCenter": 0.2,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400",
+      "location": {
+        "lat": -12.0512,
+        "lng": -77.0477,
+        "city": "Lima",
+        "country": "Peru"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-lim-003",
+      "name": "Boutique Hotel Lima Premium",
+      "description": "Combinatia perfecta intre confort, locatie si raport calitate-pret.",
+      "pricePerNight": 109,
+      "rating": 4.2,
+      "reviewsCount": 505,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400",
+      "location": {
+        "lat": -12.0542,
+        "lng": -77.0388,
+        "city": "Lima",
+        "country": "Peru"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-29",
+        "endDate": "2026-09-27",
+        "roomsLeft": 4
+      }
+    },
+    {
+      "id": "h-lim-004",
+      "name": "Hotel Europa Lima Premium",
+      "description": "Design contemporan, personal prietenos si acces facil la atractiile principale.",
+      "pricePerNight": 175,
+      "rating": 4.4,
+      "reviewsCount": 546,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=400",
+      "location": {
+        "lat": -12.0504,
+        "lng": -77.0382,
+        "city": "Lima",
+        "country": "Peru"
+      },
+      "stars": 4,
+      "freeCancellation": false,
+      "checkInTime": "15:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-04",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-lim-005",
+      "name": "Hotel Metropolitan Lima",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 86,
+      "rating": 4,
+      "reviewsCount": 28,
+      "distanceFromCenter": 0.9,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Restaurant"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=400",
+      "location": {
+        "lat": -12.0508,
+        "lng": -77.0349,
+        "city": "Lima",
+        "country": "Peru"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-06",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-lim-006",
+      "name": "Hotel Panorama Lima",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 64,
+      "rating": 3.5,
+      "reviewsCount": 82,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Restaurant"
+      ],
+      "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
+      "location": {
+        "lat": -12.0447,
+        "lng": -77.0362,
+        "city": "Lima",
+        "country": "Peru"
+      },
+      "stars": 3,
+      "freeCancellation": false,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-03-29",
+        "endDate": "2026-09-27",
+        "roomsLeft": 2
+      }
+    },
+    {
+      "id": "h-bog-001",
+      "name": "Grand Hyatt Bogota",
+      "description": "Experienta de lux in centrul orasului, cu servicii premium si atentie la detalii.",
+      "pricePerNight": 176,
+      "rating": 4.8,
+      "reviewsCount": 250,
+      "distanceFromCenter": 1,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=400",
+      "location": {
+        "lat": 4.7147,
+        "lng": -74.0636,
+        "city": "Bogota",
+        "country": "Columbia"
+      },
+      "stars": 5,
+      "freeCancellation": true,
+      "checkInTime": "16:00",
+      "checkOutTime": "11:00",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-bog-002",
+      "name": "The Peninsula Bogota",
+      "description": "Rafinament si eleganta intr-o locatie privilegiata. Servicii personalizate 24/7.",
+      "pricePerNight": 310,
+      "rating": 4.7,
+      "reviewsCount": 769,
+      "distanceFromCenter": 0.8,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Gym",
+        "Garden",
+        "Kitchen"
+      ],
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=400",
+      "location": {
+        "lat": 4.7065,
+        "lng": -74.075,
+        "city": "Bogota",
+        "country": "Columbia"
+      },
+      "stars": 5,
+      "freeCancellation": false,
+      "checkInTime": "16:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-04-08",
+        "endDate": "2026-09-27",
+        "roomsLeft": 3
+      }
+    },
+    {
+      "id": "h-bog-003",
+      "name": "Grand Hotel Bogota Premium",
+      "description": "Amplasare centrala, camere spatioase si mic dejun bogat inclus in tarif.",
+      "pricePerNight": 127,
+      "rating": 4.2,
+      "reviewsCount": 485,
+      "distanceFromCenter": 1.3,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service",
+        "Spa",
+        "Business Center"
+      ],
+      "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=400",
+      "location": {
+        "lat": 4.7063,
+        "lng": -74.0749,
+        "city": "Bogota",
+        "country": "Columbia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-01",
+        "endDate": "2026-09-27",
+        "roomsLeft": 10
+      }
+    },
+    {
+      "id": "h-bog-004",
+      "name": "Boutique Hotel Bogota Premium",
+      "description": "Hotel modern cu facilitati excelente, ideal pentru vacante si calatorii de afaceri.",
+      "pricePerNight": 94,
+      "rating": 4.3,
+      "reviewsCount": 809,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast",
+        "Bar",
+        "Room Service"
+      ],
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+      "location": {
+        "lat": 4.7031,
+        "lng": -74.08,
+        "city": "Bogota",
+        "country": "Columbia"
+      },
+      "stars": 4,
+      "freeCancellation": true,
+      "checkInTime": "13:00",
+      "checkOutTime": "12:00",
+      "availability": {
+        "startDate": "2026-04-05",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    },
+    {
+      "id": "h-bog-005",
+      "name": "Hotel Park Bogota",
+      "description": "Raport calitate-pret excelent, camere curate si personal amabil.",
+      "pricePerNight": 97,
+      "rating": 3.6,
+      "reviewsCount": 318,
+      "distanceFromCenter": 1.7,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "location": {
+        "lat": 4.7055,
+        "lng": -74.0758,
+        "city": "Bogota",
+        "country": "Columbia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "15:00",
+      "checkOutTime": "10:30",
+      "availability": {
+        "startDate": "2026-04-09",
+        "endDate": "2026-09-27",
+        "roomsLeft": 6
+      }
+    },
+    {
+      "id": "h-bog-006",
+      "name": "Hotel Metropolitan Bogota",
+      "description": "Alegerea inteligenta pentru calatorii care vor confort fara costuri excesive.",
+      "pricePerNight": 76,
+      "rating": 4.1,
+      "reviewsCount": 73,
+      "distanceFromCenter": 0.6,
+      "facilities": [
+        "WiFi",
+        "Air Conditioning",
+        "Breakfast"
+      ],
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=400",
+      "location": {
+        "lat": 4.7137,
+        "lng": -74.0703,
+        "city": "Bogota",
+        "country": "Columbia"
+      },
+      "stars": 3,
+      "freeCancellation": true,
+      "checkInTime": "14:00",
+      "checkOutTime": "10:00",
+      "availability": {
+        "startDate": "2026-03-28",
+        "endDate": "2026-09-27",
+        "roomsLeft": 9
+      }
+    }
+  ]
+}
