@@ -1,7 +1,27 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { checkKiwiBooking } from '@/lib/kiwiService'
 
+const FLIGHTCHECK_RATE_MAX = 10;
+const FLIGHTCHECK_RATE_WINDOW_MS = 60_000;
+const flightCheckCounters = new Map<string, { count: number; resetAt: number }>();
+function checkFlightCheckRateLimit(ip: string): boolean {
+  const now = Date.now();
+  const entry = flightCheckCounters.get(ip);
+  if (!entry || entry.resetAt < now) {
+    flightCheckCounters.set(ip, { count: 1, resetAt: now + FLIGHTCHECK_RATE_WINDOW_MS });
+    return true;
+  }
+  if (entry.count >= FLIGHTCHECK_RATE_MAX) return false;
+  entry.count++;
+  return true;
+}
+
 export async function POST(request: NextRequest) {
+  const ip = request.headers.get('x-forwarded-for') ?? request.headers.get('x-real-ip') ?? 'local';
+  if (!checkFlightCheckRateLimit(ip)) {
+    return NextResponse.json({ error: 'Too many requests — try again in a minute' }, { status: 429 });
+  }
+
   let body: Record<string, unknown>
   try {
     body = await request.json()

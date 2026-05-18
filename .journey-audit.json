@@ -1,0 +1,13 @@
+{
+  "name": "myholiday",
+  "baseUrl": "http://localhost:3000",
+  "navLinks": [
+    { "name": "Home", "href": "/my-holiday" },
+    { "name": "Hotels", "href": "/hotels" }
+  ],
+  "emptyStateMarkers": "No results|empty|Niciun|Nu exista|no flights|no hotels",
+  "errorMarkers": "error|failed|eroare|crashed",
+  "viewport": { "width": 1440, "height": 900 },
+  "pageTimeout": 20000,
+  "settleDelay": 2000
+}
