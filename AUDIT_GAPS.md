@@ -5,7 +5,7 @@ Last Updated: 2026-05-18
 
 | ID | Severitate | Descriere | Status | Commit | Data |
 |----|-----------|-----------|--------|--------|------|
-| G-MH-001 | P1 | Lipsă rate limiting pe /api/flights/check (token enumeration) | Eliminated | pending | 2026-05-18 |
+| G-MH-001 | P1 | Lipsă rate limiting pe /api/flights/check (token enumeration) | Eliminated | 28c5e24 | 2026-05-18 |
 
 ## Open Gaps
 
