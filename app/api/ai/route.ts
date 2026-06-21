@@ -19,6 +19,16 @@ setInterval(() => {
   }
 }, 5 * 60 * 1000)
 
+// Auth gate: when AI_INTERNAL_KEY is set (required before any public deploy),
+// requests must present a matching `x-internal-key` header. Fail-closed on a
+// configured key; no-op locally when the key is unset (MVP runs on localhost).
+// Prevents cost-abuse of the unauthenticated AIRouter proxy (audit HIGH-1).
+const checkAiInternalKey = (request: NextRequest): boolean => {
+  const expected = process.env.AI_INTERNAL_KEY
+  if (!expected) return true
+  return request.headers.get('x-internal-key') === expected
+}
+
 const checkAiRateLimit = (clientIP: string): boolean => {
   const now = Date.now()
   const entry = aiRateLimitMap.get(clientIP)
@@ -61,6 +71,10 @@ const ChatRequestSchema = z.object({
 });
 
 export async function POST(request: NextRequest) {
+  if (!checkAiInternalKey(request)) {
+    return Response.json({ error: 'Unauthorized' }, { status: 401 })
+  }
+
   const clientIP = request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() || 'unknown'
   if (!checkAiRateLimit(clientIP)) {
     return Response.json(
@@ -107,7 +121,11 @@ export async function POST(request: NextRequest) {
   }
 }
 
-export async function GET() {
+export async function GET(request: NextRequest) {
+  if (!checkAiInternalKey(request)) {
+    return Response.json({ error: 'Unauthorized' }, { status: 401 });
+  }
+
   const health = aiRouter.getHealth();
   const available = aiRouter.getAvailableProviders();
   const config = aiRouter.getConfig();
