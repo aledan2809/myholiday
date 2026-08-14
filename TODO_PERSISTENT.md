@@ -5,15 +5,13 @@
 > Rapoarte: `Reports/INTROSPECTION-2026-06-20/` (00-SUMMARY.md, 01-gap-strategy-vs-code.md, 02-pages-guide-RO.md, 03-deep-research-optimization.md, 04b-security-audit.md)
 > Checklist Alex centralizat: `Master/reports/Alex_TODO_2026-06-20.md` + tab „Introspection Audit" în UI Master.
 
-## Myholiday (local, nedeployat) — ACTIVE (fix-urile așteaptă review)
+## Myholiday (local, nedeployat) — vezi `STATUS.md` (CLOSE Val 2, 2026-08-10 — STABILIZAT)
 Sursă: `Myholiday/Reports/INTROSPECTION-2026-06-20/`
 
-- [ ] 🔴 **`/api/ai` fără auth (cost-abuse)** — protejează înainte de orice deploy (G-MH-AUTH-001).
-  - 🗣️ *Pe înțelesul tău:* Ruta inteligentă poate fi apelată de oricine fără cont, ceea ce poate genera costuri pe seama ta. După protejare (înainte de deploy), doar utilizatorii autorizați o folosesc.
-- [ ] 🟡 **Drift cheie Booking.com** (`RAPIDAPI_KEY`↔`BOOKING_API_KEY`) — decide numele canonic + `npm audit fix` → Next.js 16.2.6 (3 advisories high incl SSRF).
-  - 🗣️ *Pe înțelesul tău:* Cheia spre Booking.com are două nume diferite în cod (confuzie), plus vulnerabilități. După fix, e un singur nume clar și e sigur.
-- [ ] 🟡 **Decizie deploy** — promis Vercel vs politica VPS+PG-only; decide VPS2+PG sau rămâne local (nu limbo, L02) + rescrie STATUS/CHANGELOG.
-  - 🗣️ *Pe înțelesul tău:* Trebuie decis dacă aplicația merge online pe VPS sau rămâne doar locală — nu lăsată la nesfârșit în nesiguranță. După decizie, documentația spune clar unde stă.
-- _Solid: chei server-side, `.env` netracked, rate-limit complet, Zod, Prisma parametrizat. Avantaje: transparența sursei prețului + explicabilitatea recomandării (Deal Score din istoric = pariu top)._
+- [x] 🔴 **`/api/ai` auth** — reparat `8f4fff3` (gate x-internal-key, 401). Verificat 2026-08-10. 
+
+- [~] 🟡 **Drift cheie** rezolvat (canonic `RAPIDAPI_KEY`, verificat grep). **npm audit** (13 vuln, Next SSRF) NErezolvat: `npm audit fix` rupe build-ul (`/_global-error` invariant) → revenit; local nedeployat = SSRF neexpus, prioritate mică, se închide la deploy. 
+
+- [ ] 🟡 **Decizie deploy (user)** — VPS2+PG vs local intenționat; la deploy se bumpează Next stabil + audit 0. 
 
 ---
